@@ -1,0 +1,2 @@
+[console_scripts]
+python-env = python_env.__main__:main
